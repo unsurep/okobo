@@ -32,8 +32,8 @@ export default function Landing() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-50">
       <div className="text-center">
-        <div className="text-3xl font-bold text-blue-600 mb-4">Okobo Bankkk</div>
-        <div className="text-lg text-gray-600">Redirecting...</div>
+        <div className="text-3xl font-bold text-blue-600 mb-4">Okobo Bank</div>
+        <div className="text-lg text-gray-600">Redirecting now...</div>
       </div>
     </div>
   );
